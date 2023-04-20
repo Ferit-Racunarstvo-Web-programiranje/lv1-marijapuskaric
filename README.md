@@ -1,6 +1,6 @@
 # LV 1 zadatak - Osobna stranica
 
-### LINK: 
+### LINK: https://main--voluble-malasada-10dab7.netlify.app
 
 <hr />
 
